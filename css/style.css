@@ -1,0 +1,21 @@
+img {
+  width: 950px;
+}
+h1 {
+  color: #824431;
+  font-family: serif;
+  object-fit: cover;
+}
+h2 {
+  color: #642541;
+
+}
+h3{
+    color: #824431;
+}
+body{
+    padding: 300px;
+}
+h4{
+    color: #824431;
+}
